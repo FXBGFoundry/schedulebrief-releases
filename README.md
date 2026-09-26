@@ -59,3 +59,7 @@ Copyright © 2026 Fredericksburg Foundry LLC. All rights reserved.
 ## Developer and related work
 
 [Caymran Cummings](https://github.com/caymran) develops ScheduleBrief Viewer. Explore [FXBG Foundry](https://fxbgfoundry.com/) and [KiteScribe](https://kitescribe.ai/), a Windows transcription and OCR application.
+
+## Practical guide
+
+[Review and export a schedule](docs/review-and-export-a-schedule.md) - inspect task hierarchy, choose the Gantt view, and check the PDF before sharing.
