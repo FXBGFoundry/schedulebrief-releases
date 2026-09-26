@@ -1,6 +1,6 @@
-# ScheduleBrief Viewer Releases
+# ScheduleBrief Viewer - Windows project schedule viewer releases
 
-Official public binary releases for ScheduleBrief Viewer by Fredericksburg Foundry LLC, developed by Caymran Cummings.
+Official public binary releases for ScheduleBrief Viewer by Fredericksburg Foundry LLC, developed by [Caymran Cummings](https://github.com/caymran) (Caymran Coral Cummings).
 
 This repository contains published installers, checksums, and release notes only. The proprietary ScheduleBrief source code is maintained in a private repository and is not distributed here.
 
@@ -55,3 +55,7 @@ This is an early test build. MPP/MPT, XER, PMXML, SDEF, and MPX require broader 
 ScheduleBrief application code and product assets are proprietary. No source-code license is granted by this public distribution repository. Third-party license notices are bundled inside the installer.
 
 Copyright © 2026 Fredericksburg Foundry LLC. All rights reserved.
+
+## Developer and related work
+
+[Caymran Cummings](https://github.com/caymran) develops ScheduleBrief Viewer. Explore [FXBG Foundry](https://fxbgfoundry.com/) and [KiteScribe](https://kitescribe.ai/), a Windows transcription and OCR application.
