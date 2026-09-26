@@ -1,6 +1,6 @@
 # ScheduleBrief Viewer Releases
 
-Official public binary releases for ScheduleBrief Viewer by Fredericksburg Foundry LLC.
+Official public binary releases for ScheduleBrief Viewer by Fredericksburg Foundry LLC, developed by Caymran Cummings.
 
 This repository contains published installers, checksums, and release notes only. The proprietary ScheduleBrief source code is maintained in a private repository and is not distributed here.
 
